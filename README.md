@@ -12,7 +12,6 @@ Through my university projects and laboratory work, I have developed skills in *
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriiagui81@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-aguilar-porcel-bb6409369/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://i22agpoa.github.io/)
 
 ## ⚡ Technologies
 
