@@ -4,7 +4,7 @@
 💻 **Computer Engineering student specializing in Software at the University of Córdoba**  
 📍 Erasmus @ Universitatea din Craiova (Romania)
 
-I am a Computer Engineering student focused on **software development and databases**, with a strong academic background in **C, C++ and SQL**, and basic knowledge of **Java**.
+I am a Computer Engineering student focused on **software development and databases**, with a strong academic background in **C, C++ and SQL**, and basic knowledge of **JavaScript**.
 
 Through my university projects and laboratory work, I have developed skills in **problem solving**, **structured programming**, and **technical documentation**, working both independently and as part of a team.
 
